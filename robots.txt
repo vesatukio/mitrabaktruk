@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vesatukio.github.io/mitrabaktruk/sitemap.xml
